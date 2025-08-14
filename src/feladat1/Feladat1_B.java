@@ -1,4 +1,4 @@
-package Feladat1;
+package feladat1;
 
 import java.util.Scanner;
 
